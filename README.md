@@ -1,2 +1,2 @@
 # WEI-WEI-Discord-bot
-# 搞不定啊
+# 我的Git還是有問題搞不定啊
