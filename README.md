@@ -1,2 +1,2 @@
 # WEI-WEI-Discord-bot
-# 我的Git還是有問題搞不定啊
+# 程式碼暫不公開，如有需要請找WEI WEI本人洽談
